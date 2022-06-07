@@ -5,5 +5,7 @@ Changes fro master
 new edditing
 
 Changes from <first>
+after merge
+new changes!
 
 (Add footer)
